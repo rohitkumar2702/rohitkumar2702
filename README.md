@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hii I am Rohit Kumar
 ## 👋 About Me<br><br>Hi there! I'm an aspiring developer passionate about building scalable applications and sharpening my problem-solving skills.  <br><br>- 🌱 Currently learning **Spring Boot** to dive deeper into backend development <br>- 💻 Practicing **Data Structures & Algorithms (DSA)** to strengthen my coding fundamentals <br>- 🚀 Interested in exploring system design, microservices, and cloud technologies in the future  <br>- 📚 Always curious and eager to learn new tools, frameworks, and best practices  <br><br>Let's connect and grow together through code!<br>
 
 
